@@ -945,3 +945,290 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-20.38.17:929][930]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/MainLevel_KJC524DE1E4894FA93451CF0BDA7B5A8FC.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ.umap'
 [2021.09.28-20.38.17:960][930]AssetCheck: New page: Asset Save: MainLevel_KJ
 [2021.09.28-20.38.17:960][930]LogContentValidation: Display: Validating World /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ
+[2021.09.28-20.40.25:779][115]LogEditorViewport: Clicking on Actor (LMB): Pig_Collectable_KJ_C (Pig_Collectable_KJ2)
+[2021.09.28-20.40.31:791][254]LogEditorViewport: Clicking on Actor (LMB): Elephant_Collectibles_KJ_C (Elephant_Collectibles_KJ2)
+[2021.09.28-20.40.32:800][277]LogEditorViewport: Clicking on Actor (LMB): Elephant_Collectibles_KJ_C (Elephant_Collectibles_KJ2)
+[2021.09.28-20.40.33:484][293]LogEditorViewport: Clicking Background
+[2021.09.28-20.41.17:687][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fish_2)
+[2021.09.28-20.41.27:655][488]LogContentBrowser: Deferred new asset file creation: MasterMAT_EC_Inst
+[2021.09.28-20.41.27:695][488]LogContentBrowser: Creating deferred item: MasterMAT_EC_Inst
+[2021.09.28-20.41.39:350][748]LogContentBrowser: Attempting asset rename: MasterMAT_EC_Inst -> Fish_MAT_E
+[2021.09.28-20.41.39:534][748]LogContentBrowser: End creating deferred item MasterMAT_EC_Inst
+[2021.09.28-20.41.42:399][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.09.28-20.41.43:839][837]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.28-20.41.43:941][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.09.28-20.46.43:806][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.09.28-20.46.45:123][973]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.28-20.46.45:186][973]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Materials_EC/Fish_MAT_EC.Fish_MAT_EC
+[2021.09.28-20.46.46:648][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.28-20.46.46:660][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.09.28-20.46.46:669][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.09.28-20.46.46:997][973]SourceControl: Error: Updated 0 paths from the index
+[2021.09.28-20.46.47:231][973]SourceControl: rm 'Content/Materials_EC/Fish_MAT_EC.uasset'
+[2021.09.28-20.47.14:111][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.09.28-20.47.15:223][513]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.28-20.47.15:424][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.09.28-20.47.15:433][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.28-20.47.15:443][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.28-20.47.15:475][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.09.28-20.47.15:488][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.28-20.47.15:850][513]SourceControl: Error: Updated 0 paths from the index
+[2021.09.28-20.47.16:085][513]SourceControl: rm 'Content/TextureImages_EC/FishWScales_Texture_Albedo_LS.uasset'
+[2021.09.28-20.47.16:085][513]SourceControl: rm 'Content/TextureImages_EC/FishWScales_Texture_Normal_LS.uasset'
+[2021.09.28-20.47.16:085][513]SourceControl: rm 'Content/TextureImages_EC/FishWScales_Texture_OcclusionRoughnessMetallic_LS.uasset'
+[2021.09.28-20.47.44:708][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Owner/Downloads/Fish_Texture_Normal_LS.tga)
+[2021.09.28-20.47.44:802][567]LogTexture: Display: Building textures: Fish_Texture_Normal_LS (BC5, 2048X2048)
+[2021.09.28-20.47.45:674][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Owner/Downloads/Fish_Texture_Albedo_LS.tga)
+[2021.09.28-20.47.45:766][567]LogTexture: Display: Building textures: Fish_Texture_Albedo_LS (AutoDXT, 2048X2048)
+[2021.09.28-20.47.46:871][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Owner/Downloads/Fish_Texture_OcclusionRoughnessMetallic_LS.tga)
+[2021.09.28-20.47.46:935][567]LogTexture: Display: Building textures: Fish_Texture_OcclusionRoughnessMetallic_LS (AutoDXT, 2048X2048)
+[2021.09.28-20.47.56:222][747]LogContentBrowser: Deferred new asset file creation: MasterMAT_EC_Inst
+[2021.09.28-20.47.56:257][747]LogContentBrowser: Creating deferred item: MasterMAT_EC_Inst
+[2021.09.28-20.47.59:293][801]LogContentBrowser: Attempting asset rename: MasterMAT_EC_Inst -> Fist_MAT_EC
+[2021.09.28-20.47.59:497][801]LogContentBrowser: End creating deferred item MasterMAT_EC_Inst
+[2021.09.28-20.48.01:086][819]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials_EC/Fist_MAT_EC.Fist_MAT_EC
+[2021.09.28-20.48.01:639][819]LogRenderer: Reallocating scene render targets to support 892x580 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-20.48.30:275][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.09.28-20.48.30:389][395]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/MainLevel_KJ_Auto1E07A69A84D2398C872EAB9853859836D.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Levels_KJ/MainLevel_KJ_Auto1.umap'
+[2021.09.28-20.48.30:393][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_KJ/MainLevel_KJ' took 0.136
+[2021.09.28-20.48.30:393][395]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.136
+[2021.09.28-20.48.30:394][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials_EC/TreeBranch_MAT_EC] ([1] browsable assets)...
+[2021.09.28-20.48.30:446][395]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials_EC/TreeBranch_MAT_EC.TreeBranch_MAT_EC]
+[2021.09.28-20.48.30:446][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials_EC/TreeBranch_MAT_EC]
+[2021.09.28-20.48.30:457][395]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/TreeBranch_MAT_EC_Auto1509B04BA477305076311C793EAC39E42.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Materials_EC/TreeBranch_MAT_EC_Auto1.uasset'
+[2021.09.28-20.48.30:459][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TextureImages_EC/Fish_Texture_Normal_LS] ([1] browsable assets)...
+[2021.09.28-20.48.30:470][395]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TextureImages_EC/Fish_Texture_Normal_LS.Fish_Texture_Normal_LS]
+[2021.09.28-20.48.30:470][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/TextureImages_EC/Fish_Texture_Normal_LS]
+[2021.09.28-20.48.30:483][395]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Fish_Texture_Normal_LS_Auto186B307334732B298D0D8D3A4965A1539.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/TextureImages_EC/Fish_Texture_Normal_LS_Auto1.uasset'
+[2021.09.28-20.48.30:485][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TextureImages_EC/Fish_Texture_Albedo_LS] ([1] browsable assets)...
+[2021.09.28-20.48.30:496][395]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TextureImages_EC/Fish_Texture_Albedo_LS.Fish_Texture_Albedo_LS]
+[2021.09.28-20.48.30:496][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/TextureImages_EC/Fish_Texture_Albedo_LS]
+[2021.09.28-20.48.30:509][395]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Fish_Texture_Albedo_LS_Auto1C2E9D6AD4DA3F6BE35B018BECA34BF77.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/TextureImages_EC/Fish_Texture_Albedo_LS_Auto1.uasset'
+[2021.09.28-20.48.30:511][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS] ([1] browsable assets)...
+[2021.09.28-20.48.30:525][395]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS.Fish_Texture_OcclusionRoughnessMetallic_LS]
+[2021.09.28-20.48.30:525][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS]
+[2021.09.28-20.48.30:538][395]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Fish_Texture_OcclusionRoughnessM995B27C14D46CD36E5FD4AA48B1AF8BD.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS_Auto1.uasset'
+[2021.09.28-20.48.30:540][395]LogFileHelpers: Auto-saving content packages took 0.147
+[2021.09.28-20.48.49:330][754]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS.Fish_Texture_OcclusionRoughnessMetallic_LS
+[2021.09.28-20.48.51:032][781]LogTexture: Display: Building textures: Fish_Texture_OcclusionRoughnessMetallic_LS (AutoDXT, 2048X2048)
+[2021.09.28-20.48.53:594][796]LogSlate: Window 'Fish_Texture_OcclusionRoughnessMetallic_LS' being destroyed
+[2021.09.28-20.48.53:619][796]LogSlate: Window 'Fish_Texture_OcclusionRoughnessMetallic_LS' being destroyed
+[2021.09.28-20.48.53:643][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.09.28-20.48.53:674][796]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.28-20.48.53:692][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.09.28-20.48.53:718][796]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-20.48.53:718][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-20.48.58:347][858]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials_EC/Fist_MAT_EC.Fist_MAT_EC
+[2021.09.28-20.48.58:781][858]LogRenderer: Reallocating scene render targets to support 892x584 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-20.49.39:906][552]LogSlate: Window 'Fist_MAT_EC' being destroyed
+[2021.09.28-20.49.39:960][552]LogSlate: Window 'Fist_MAT_EC' being destroyed
+[2021.09.28-20.49.40:005][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.09.28-20.49.40:047][552]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.28-20.49.40:072][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.09.28-20.49.40:089][552]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-20.49.40:089][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-20.54.32:091][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Nest_Temp_1)
+[2021.09.28-20.58.31:058][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.09.28-20.58.31:157][284]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/MainLevel_KJ_Auto2E21A696B42892D698FAF97AC5F9A9109.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Levels_KJ/MainLevel_KJ_Auto2.umap'
+[2021.09.28-20.58.31:161][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_KJ/MainLevel_KJ' took 0.116
+[2021.09.28-20.58.31:161][284]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2021.09.28-20.58.31:161][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS] ([1] browsable assets)...
+[2021.09.28-20.58.31:173][284]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS.Fish_Texture_OcclusionRoughnessMetallic_LS]
+[2021.09.28-20.58.31:173][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS]
+[2021.09.28-20.58.31:187][284]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Fish_Texture_OcclusionRoughnessM2137906049049A40F894D190119611E0.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS_Auto2.uasset'
+[2021.09.28-20.58.31:190][284]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.09.28-21.00.15:570][683]LogSlate: Window 'Content Browser 1' being destroyed
+[2021.09.28-21.00.24:950][777]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models_KJ/Animal_Collectable_KJ/Pig_Model_CS_Cube_001.Pig_Model_CS_Cube_001
+[2021.09.28-21.00.25:733][777]LogRenderer: Reallocating scene render targets to support 892x588 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-21.00.25:733][777]LogSlate: Took 0.009789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.28-21.02.45:429][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Owner/Downloads/Zebra_Model_CS3.fbx)
+[2021.09.28-21.02.45:481][334]LogFbx: Loading FBX Scene from ../../../../../../Users/Owner/Downloads/Zebra_Model_CS3.fbx
+[2021.09.28-21.02.45:496][334]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.28-21.02.55:998][334]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.28-21.02.56:033][334]LogFbx: Display: Triangulating static mesh Cube.003
+[2021.09.28-21.02.56:069][334]LogStaticMesh: Building static mesh Zebra_Model_CS3...
+[2021.09.28-21.02.56:100][334]LogStaticMesh: Built static mesh [0.03s] /Game/Models_KJ/Zebra_Model_CS3.Zebra_Model_CS3
+[2021.09.28-21.02.56:124][334]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.28-21.02.56:319][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Owner/Downloads/Pig_Model_CS2.fbx)
+[2021.09.28-21.02.56:353][334]LogFbx: Loading FBX Scene from ../../../../../../Users/Owner/Downloads/Pig_Model_CS2.fbx
+[2021.09.28-21.02.56:362][334]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.28-21.02.56:362][334]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.09.28-21.02.56:393][334]LogStaticMesh: Building static mesh Pig_Model_CS2...
+[2021.09.28-21.02.56:418][334]LogStaticMesh: Built static mesh [0.02s] /Game/Models_KJ/Pig_Model_CS2.Pig_Model_CS2
+[2021.09.28-21.02.56:435][334]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.28-21.02.56:583][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Owner/Downloads/Lion_Model_CS3.fbx)
+[2021.09.28-21.02.56:597][334]LogFbx: Loading FBX Scene from ../../../../../../Users/Owner/Downloads/Lion_Model_CS3.fbx
+[2021.09.28-21.02.56:607][334]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.28-21.02.56:623][334]LogMaterial: Display: Missing cached shader map for material ZenUV_Generic_Material_002, compiling. 
+[2021.09.28-21.02.56:667][334]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.09.28-21.02.56:711][334]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.09.28-21.02.56:711][334]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.28-21.02.56:711][334]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.28-21.02.56:712][334]LogStaticMesh: Building static mesh Lion_Model_CS3...
+[2021.09.28-21.02.56:756][334]LogStaticMesh: Built static mesh [0.04s] /Game/Models_KJ/Lion_Model_CS3.Lion_Model_CS3
+[2021.09.28-21.02.56:771][334]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.28-21.02.56:931][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Owner/Downloads/Elephant_Model_CS3.fbx)
+[2021.09.28-21.02.56:951][334]LogFbx: Loading FBX Scene from ../../../../../../Users/Owner/Downloads/Elephant_Model_CS3.fbx
+[2021.09.28-21.02.56:966][334]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.28-21.02.56:967][334]LogFbx: Display: Triangulating static mesh ELephant
+[2021.09.28-21.02.57:035][334]LogStaticMesh: Building static mesh Elephant_Model_CS3...
+[2021.09.28-21.02.57:084][334]LogStaticMesh: Built static mesh [0.05s] /Game/Models_KJ/Elephant_Model_CS3.Elephant_Model_CS3
+[2021.09.28-21.02.57:104][334]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.28-21.02.59:343][349]LogSlate: Window 'Message Log' being destroyed
+[2021.09.28-21.02.59:396][349]LogSlate: Window 'Message Log' being destroyed
+[2021.09.28-21.03.06:888][399]LogActorFactory: Actor Factory created Elephant_Model_CS3
+[2021.09.28-21.03.06:891][399]LogActorFactory: Actor Factory created Lion_Model_CS3
+[2021.09.28-21.03.06:893][399]LogActorFactory: Actor Factory created Pig_Model_CS2
+[2021.09.28-21.03.06:894][399]LogActorFactory: Actor Factory created Zebra_Model_CS3
+[2021.09.28-21.03.11:760][475]LogActorFactory: Actor Factory created Lion_Model_CS3
+[2021.09.28-21.03.12:951][497]LogActorFactory: Actor Factory created Lion_Model_CS3
+[2021.09.28-21.03.23:471][608]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials_EC/Lion_MAT_EC.Lion_MAT_EC
+[2021.09.28-21.03.25:739][627]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TextureImages_EC/Lion_Texture_OcclusionRoughnessMetallic_CS.Lion_Texture_OcclusionRoughnessMetallic_CS
+[2021.09.28-21.03.45:287][841]LogSlate: Window 'Lion_Texture_OcclusionRoughnessMetallic_CS' being destroyed
+[2021.09.28-21.03.45:321][841]LogSlate: Window 'Lion_Texture_OcclusionRoughnessMetallic_CS' being destroyed
+[2021.09.28-21.03.45:337][841]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-21.03.45:337][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-21.03.45:423][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.09.28-21.03.45:456][841]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.28-21.03.45:472][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.09.28-21.03.45:490][841]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-21.03.45:490][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-21.03.57:525][110]Cmd: DELETE
+[2021.09.28-21.03.57:527][110]Cmd: ACTOR DELETE
+[2021.09.28-21.03.57:554][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.28-21.03.57:606][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.09.28-21.03.57:607][110]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2021.09.28-21.04.09:295][379]LogEditorViewport: Clicking Background
+[2021.09.28-21.04.09:806][389]LogEditorViewport: Clicking on Actor (LMB): Lion_Collectable_KJ_C (Lion_Collectable_KJ2)
+[2021.09.28-21.04.10:509][403]LogEditorViewport: Clicking on Actor (LMB): Lion_Collectable_KJ_C (Lion_Collectable_KJ2)
+[2021.09.28-21.04.10:922][412]LogEditorViewport: Clicking on Actor (LMB): Lion_Collectable_KJ_C (Lion_Collectable_KJ2)
+[2021.09.28-21.04.10:994][413]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Lion)
+[2021.09.28-21.04.15:017][476]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/LaserPointer: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/LaserPointer' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.04.15:017][476]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.04.15:017][476]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/MaterialSphere.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/MaterialSphere.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.04.22:600][583]Cmd: TRANSACTION UNDO
+[2021.09.28-21.04.22:601][583]LogEditorTransaction: Undo Replace component used material
+[2021.09.28-21.04.24:089][622]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models_KJ/Lion_Model_CS3.Lion_Model_CS3
+[2021.09.28-21.04.30:211][673]LogSlate: Window 'Lion_Model_CS3' being destroyed
+[2021.09.28-21.04.30:365][673]LogSlate: Window 'Lion_Model_CS3' being destroyed
+[2021.09.28-21.04.30:370][673]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-21.04.30:370][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-21.04.39:422][840]LogEditorViewport: Clicking Background
+[2021.09.28-21.04.39:754][846]LogEditorViewport: Clicking on Actor (LMB): Lion_Collectable_KJ_C (Lion_Collectable_KJ)
+[2021.09.28-21.04.39:872][847]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Lion)
+[2021.09.28-21.04.46:989][933]LogEditorViewport: Clicking Background
+[2021.09.28-21.04.53:905][ 64]LogEditorViewport: Clicking on Actor (LMB): Pig_Collectable_KJ_C (Pig_Collectable_KJ2)
+[2021.09.28-21.05.01:029][208]LogEditorViewport: Clicking on Actor (LMB): Pig_Collectable_KJ_C (Pig_Collectable_KJ2)
+[2021.09.28-21.05.01:123][209]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Pig)
+[2021.09.28-21.05.09:787][288]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.05.09:787][288]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/ParticleCube.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/ParticleCube.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.05.09:787][288]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.05.18:638][394]Cmd: TRANSACTION UNDO
+[2021.09.28-21.05.18:638][394]LogEditorTransaction: Undo Replace component used material
+[2021.09.28-21.05.19:310][411]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials_EC/Pig_MAT.Pig_MAT
+[2021.09.28-21.05.19:824][411]LogRenderer: Reallocating scene render targets to support 892x592 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-21.05.24:583][475]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TextureImages_EC/Pig_Texture_OcclusionRoughnessMetallic_CS.Pig_Texture_OcclusionRoughnessMetallic_CS
+[2021.09.28-21.05.37:135][680]LogSlate: Window 'Pig_MAT' being destroyed
+[2021.09.28-21.05.37:202][680]LogSlate: Window 'Pig_MAT' being destroyed
+[2021.09.28-21.05.37:239][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.09.28-21.05.37:275][680]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.28-21.05.37:301][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.09.28-21.05.37:324][680]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-21.05.37:324][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-21.05.39:389][694]LogEditorViewport: Clicking on Actor (LMB): Pig_Collectable_KJ_C (Pig_Collectable_KJ2)
+[2021.09.28-21.05.39:427][694]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Pig)
+[2021.09.28-21.05.41:064][710]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Pig)
+[2021.09.28-21.05.41:077][710]LogEditorViewport: Clicking on Actor (double click): Pig_Collectable_KJ_C (Pig_Collectable_KJ2)
+[2021.09.28-21.05.42:277][721]LogEditorViewport: Clicking on Actor (LMB): Pig_Collectable_KJ_C (Pig_Collectable_KJ2)
+[2021.09.28-21.05.42:314][721]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Pig)
+[2021.09.28-21.05.43:270][730]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models_KJ/Pig_Model_CS2.Pig_Model_CS2
+[2021.09.28-21.05.43:891][730]LogRenderer: Reallocating scene render targets to support 892x596 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-21.06.08:011][935]LogSlate: Window 'Pig_Model_CS2' being destroyed
+[2021.09.28-21.06.08:085][935]LogSlate: Window 'Pig_Model_CS2' being destroyed
+[2021.09.28-21.06.08:091][935]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-21.06.08:091][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-21.06.14:491][ 41]LogEditorViewport: Clicking on Actor (LMB): Pig_Collectable_KJ_C (Pig_Collectable_KJ)
+[2021.09.28-21.06.14:512][ 41]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Pig)
+[2021.09.28-21.06.19:797][ 93]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.06.19:798][ 93]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/ParticleCube.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/ParticleCube.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.06.19:798][ 93]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset' is outside repository at 'C:/Users/Owner/Documents/GitHub/NAMainMenuTemp'
+[2021.09.28-21.06.40:974][397]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models_KJ/Zebra_Model_CS3.Zebra_Model_CS3
+[2021.09.28-21.06.41:740][398]LogRenderer: Reallocating scene render targets to support 892x600 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-21.07.03:211][565]LogSlate: Window 'Zebra_Model_CS3' being destroyed
+[2021.09.28-21.07.03:406][565]LogSlate: Window 'Zebra_Model_CS3' being destroyed
+[2021.09.28-21.07.03:411][565]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-21.07.03:412][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-21.07.42:478][176]LogEditorViewport: Clicking on Actor (LMB): Zebra_Collectable_KJ_C (Zebra_Collectable_KJ2)
+[2021.09.28-21.07.42:507][176]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Zebra)
+[2021.09.28-21.07.56:993][312]LogEditorViewport: Clicking on Actor (LMB): Zebra_Collectable_KJ_C (Zebra_Collectable_KJ)
+[2021.09.28-21.07.57:095][312]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Zebra)
+[2021.09.28-21.08.14:950][530]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models_KJ/Elephant_Model_CS3.Elephant_Model_CS3
+[2021.09.28-21.08.15:827][531]LogRenderer: Reallocating scene render targets to support 892x604 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-21.08.38:847][654]LogSlate: Window 'Elephant_Model_CS3' being destroyed
+[2021.09.28-21.08.38:933][654]LogSlate: Window 'Elephant_Model_CS3' being destroyed
+[2021.09.28-21.08.38:938][654]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-21.08.38:938][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-21.08.44:202][703]LogEditorViewport: Clicking on Actor (LMB): Elephant_Collectibles_KJ_C (Elephant_Collectibles_KJ2)
+[2021.09.28-21.08.44:233][703]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Elephant)
+[2021.09.28-21.08.55:915][821]LogEditorViewport: Clicking on Actor (LMB): Elephant_Collectibles_KJ_C (Elephant_Collectibles_KJ)
+[2021.09.28-21.08.55:941][821]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Elephant)
+[2021.09.28-21.09.47:323][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.09.28-21.09.47:471][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/MainLevel_KJ_Auto306DAD99B4874824A296182A2C072D9BC.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Levels_KJ/MainLevel_KJ_Auto3.umap'
+[2021.09.28-21.09.47:475][ 27]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_KJ/MainLevel_KJ' took 0.169
+[2021.09.28-21.09.47:476][ 27]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.169
+[2021.09.28-21.09.47:476][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_KJ/Zebra_Model_CS3] ([1] browsable assets)...
+[2021.09.28-21.09.47:541][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models_KJ/Zebra_Model_CS3.Zebra_Model_CS3]
+[2021.09.28-21.09.47:541][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_KJ/Zebra_Model_CS3]
+[2021.09.28-21.09.47:564][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Zebra_Model_CS3_Auto36B03946C49C9F96809B64CB81848625F.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Models_KJ/Zebra_Model_CS3_Auto3.uasset'
+[2021.09.28-21.09.47:567][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_KJ/Pig_Model_CS2] ([1] browsable assets)...
+[2021.09.28-21.09.47:626][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models_KJ/Pig_Model_CS2.Pig_Model_CS2]
+[2021.09.28-21.09.47:626][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_KJ/Pig_Model_CS2]
+[2021.09.28-21.09.47:643][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Pig_Model_CS2_Auto3C72FA074459C95AB8E0A23AF4E58AE7D.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Models_KJ/Pig_Model_CS2_Auto3.uasset'
+[2021.09.28-21.09.47:644][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_KJ/Lion_Model_CS3] ([1] browsable assets)...
+[2021.09.28-21.09.47:701][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models_KJ/Lion_Model_CS3.Lion_Model_CS3]
+[2021.09.28-21.09.47:701][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_KJ/Lion_Model_CS3]
+[2021.09.28-21.09.47:716][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Lion_Model_CS3_Auto3E4D667844BD1E274B5D612AFD4045E03.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Models_KJ/Lion_Model_CS3_Auto3.uasset'
+[2021.09.28-21.09.47:718][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_KJ/Elephant_Model_CS3] ([1] browsable assets)...
+[2021.09.28-21.09.47:782][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models_KJ/Elephant_Model_CS3.Elephant_Model_CS3]
+[2021.09.28-21.09.47:782][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_KJ/Elephant_Model_CS3]
+[2021.09.28-21.09.47:817][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Elephant_Model_CS3_Auto33F42A370499D62BC81C8279AA98FAEE0.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Models_KJ/Elephant_Model_CS3_Auto3.uasset'
+[2021.09.28-21.09.47:820][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials_EC/Lion_MAT_EC] ([1] browsable assets)...
+[2021.09.28-21.09.47:901][ 27]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials_EC/Lion_MAT_EC.Lion_MAT_EC]
+[2021.09.28-21.09.47:901][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials_EC/Lion_MAT_EC]
+[2021.09.28-21.09.47:918][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Lion_MAT_EC_Auto330CFB4A34B434259F5DC86BA54350D22.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Materials_EC/Lion_MAT_EC_Auto3.uasset'
+[2021.09.28-21.09.47:919][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TextureImages_EC/Lion_Texture_OcclusionRoughnessMetallic_CS] ([1] browsable assets)...
+[2021.09.28-21.09.47:932][ 27]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TextureImages_EC/Lion_Texture_OcclusionRoughnessMetallic_CS.Lion_Texture_OcclusionRoughnessMetallic_CS]
+[2021.09.28-21.09.47:932][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/TextureImages_EC/Lion_Texture_OcclusionRoughnessMetallic_CS]
+[2021.09.28-21.09.47:977][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Lion_Texture_OcclusionRoughnessM4F9226AC4C5D1EA944036FA5A08E8E5C.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/TextureImages_EC/Lion_Texture_OcclusionRoughnessMetallic_CS_Auto3.uasset'
+[2021.09.28-21.09.47:980][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials_EC/Pig_MAT] ([1] browsable assets)...
+[2021.09.28-21.09.48:039][ 27]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials_EC/Pig_MAT.Pig_MAT]
+[2021.09.28-21.09.48:039][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials_EC/Pig_MAT]
+[2021.09.28-21.09.48:052][ 27]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Pig_MAT_Auto3E8382437424B497E9B17F6B1CA0CB77E.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Autosaves/Game/Materials_EC/Pig_MAT_Auto3.uasset'
+[2021.09.28-21.09.48:056][ 27]LogFileHelpers: Auto-saving content packages took 0.580
+[2021.09.28-21.10.29:596][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.09.28-21.10.29:687][292]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/MainLevel_KJD08517CE4FBF1FAB72174AAA24E6653C.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ.umap'
+[2021.09.28-21.10.29:721][292]AssetCheck: New page: Asset Save: MainLevel_KJ
+[2021.09.28-21.10.29:721][292]LogContentValidation: Display: Validating World /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ
+[2021.09.28-21.11.14:515][252]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/ZenUV_Generic_Material_00228E41BCC4BF33C3C8C84BD91522A650E.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/ZenUV_Generic_Material_002.uasset'
+[2021.09.28-21.11.14:763][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_KJ/Elephant_Model_CS3" FILE="../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Elephant_Model_CS3.uasset" SILENT=true
+[2021.09.28-21.11.14:778][252]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Elephant_Model_CS3E49B48D741EE4B6F66362FBB2A4B3759.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Elephant_Model_CS3.uasset'
+[2021.09.28-21.11.15:015][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_KJ/Lion_Model_CS3" FILE="../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Lion_Model_CS3.uasset" SILENT=true
+[2021.09.28-21.11.15:025][252]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Lion_Model_CS379D6BB5B4A5FEFD7DADF8C8C614AC65E.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Lion_Model_CS3.uasset'
+[2021.09.28-21.11.15:255][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_KJ/Pig_Model_CS2" FILE="../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Pig_Model_CS2.uasset" SILENT=true
+[2021.09.28-21.11.15:265][252]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Pig_Model_CS276497B3F4AA58ACE5A9D4EB728B04CFA.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Pig_Model_CS2.uasset'
+[2021.09.28-21.11.15:488][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_KJ/Zebra_Model_CS3" FILE="../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Zebra_Model_CS3.uasset" SILENT=true
+[2021.09.28-21.11.15:498][252]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Zebra_Model_CS31D23B69E4FD2F7AA409E60B12786FE2B.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/Models_KJ/Zebra_Model_CS3.uasset'
+[2021.09.28-21.11.15:938][252]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-21.11.15:938][252]LogContentValidation: Display: Validating StaticMesh /Game/Models_KJ/Elephant_Model_CS3.Elephant_Model_CS3
+[2021.09.28-21.11.15:938][252]LogContentValidation: Display: Validating Material /Game/Models_KJ/ZenUV_Generic_Material_002.ZenUV_Generic_Material_002
+[2021.09.28-21.11.15:938][252]LogContentValidation: Display: Validating StaticMesh /Game/Models_KJ/Lion_Model_CS3.Lion_Model_CS3
+[2021.09.28-21.11.15:938][252]LogContentValidation: Display: Validating StaticMesh /Game/Models_KJ/Pig_Model_CS2.Pig_Model_CS2
+[2021.09.28-21.11.15:938][252]LogContentValidation: Display: Validating StaticMesh /Game/Models_KJ/Zebra_Model_CS3.Zebra_Model_CS3
+[2021.09.28-21.11.41:627][769]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Fish_Texture_Albedo_LS827358D847514DF7ACB201B17C26DAA2.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/TextureImages_EC/Fish_Texture_Albedo_LS.uasset'
+[2021.09.28-21.11.42:385][769]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Fish_Texture_Normal_LSA72D84264C4F7D95A9258FADD29EE826.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/TextureImages_EC/Fish_Texture_Normal_LS.uasset'
+[2021.09.28-21.11.43:275][769]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Saved/Fish_Texture_OcclusionRoughnessMFA3521DD4EC80D7E4A7E20BB48EB9F48.tmp' to '../../../../../../Users/Owner/Documents/GitHub/NAMainMenuTemp/Content/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS.uasset'
+[2021.09.28-21.11.44:248][769]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-21.11.44:248][769]LogContentValidation: Display: Validating Texture2D /Game/TextureImages_EC/Fish_Texture_OcclusionRoughnessMetallic_LS.Fish_Texture_OcclusionRoughnessMetallic_LS
+[2021.09.28-21.11.44:248][769]LogContentValidation: Display: Validating Texture2D /Game/TextureImages_EC/Fish_Texture_Albedo_LS.Fish_Texture_Albedo_LS
+[2021.09.28-21.11.44:249][769]LogContentValidation: Display: Validating Texture2D /Game/TextureImages_EC/Fish_Texture_Normal_LS.Fish_Texture_Normal_LS
