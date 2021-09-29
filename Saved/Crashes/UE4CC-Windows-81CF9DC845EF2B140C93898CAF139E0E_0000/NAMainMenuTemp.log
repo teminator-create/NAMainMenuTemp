@@ -1,0 +1,1084 @@
+﻿Log file open, 08/17/21 22:31:49
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: NAMainMenuTemp
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189876
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.08.18-03.31.50:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.18-03.31.50:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.08.18-03.31.50:036][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.08.18-03.31.50:046][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.18-03.31.50:046][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.18-03.31.50:047][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.18-03.31.50:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.18-03.31.50:047][  0]LogHAL: Display: Platform has ~ 16 GB [16866869248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.18-03.31.50:047][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.18-03.31.50:047][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.08.18-03.31.50:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.18-03.31.50:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.18-03.31.50:048][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.18-03.31.50:048][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.18-03.31.50:048][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.18-03.31.50:048][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.18-03.31.50:048][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.18-03.31.50:048][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.08.18-03.31.50:048][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Editor.ini]
+[2021.08.18-03.31.50:048][  0]LogInit: Computer: MSI
+[2021.08.18-03.31.50:048][  0]LogInit: User: alilb
+[2021.08.18-03.31.50:048][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.08.18-03.31.50:048][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.18-03.31.50:048][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.08.18-03.31.50:048][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.18-03.31.50:048][  0]LogMemory: Process Physical Memory: 140.05 MB used, 140.05 MB peak
+[2021.08.18-03.31.50:048][  0]LogMemory: Process Virtual Memory: 129.69 MB used, 129.69 MB peak
+[2021.08.18-03.31.50:048][  0]LogMemory: Physical Memory: 9812.13 MB used,  6273.37 MB free, 16085.50 MB total
+[2021.08.18-03.31.50:048][  0]LogMemory: Virtual Memory: 134214672.00 MB used,  3056.91 MB free, 134217728.00 MB total
+[2021.08.18-03.31.50:076][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.18-03.31.50:101][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.18-03.31.50:102][  0]LogInit: Using OS detected language (en-US).
+[2021.08.18-03.31.50:102][  0]LogInit: Using OS detected locale (en-US).
+[2021.08.18-03.31.50:104][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.18-03.31.50:233][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.18-03.31.50:241][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.18-03.31.50:255][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.18-03.31.50:255][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.18-03.31.50:343][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.18-03.31.50:343][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.18-03.31.50:343][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.18-03.31.50:343][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.18-03.31.50:425][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2021.08.18-03.31.50:425][  0]LogD3D11RHI:       6023/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.18-03.31.50:452][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.08.18-03.31.50:452][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.18-03.31.50:453][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.18-03.31.50:453][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.18-03.31.50:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.18-03.31.50:460][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.18-03.31.50:460][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.18-03.31.50:460][  0]LogWindows: EnumDisplayDevices:
+[2021.08.18-03.31.50:460][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.08.18-03.31.50:461][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.18-03.31.50:461][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.18-03.31.50:461][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.18-03.31.50:461][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1)
+[2021.08.18-03.31.50:461][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.08.18-03.31.50:461][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.08.18-03.31.50:461][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.08.18-03.31.50:461][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.18-03.31.50:461][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2021.08.18-03.31.50:461][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.08.18-03.31.50:461][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.08.18-03.31.50:461][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2021.08.18-03.31.50:522][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.18-03.31.50:523][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.18-03.31.50:523][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.18-03.31.50:542][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.18-03.31.50:542][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.18-03.31.50:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.18-03.31.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.18-03.31.50:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.18-03.31.50:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.18-03.31.50:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.18-03.31.50:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.18-03.31.50:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.18-03.31.50:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.18-03.31.50:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.18-03.31.50:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.18-03.31.50:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.18-03.31.50:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.18-03.31.50:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.18-03.31.50:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.18-03.31.50:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.18-03.31.50:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.18-03.31.50:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.18-03.31.50:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.18-03.31.50:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.18-03.31.50:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.18-03.31.50:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.18-03.31.50:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.18-03.31.50:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.18-03.31.50:924][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.18-03.31.50:928][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.18-03.31.50:965][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.18-03.31.50:965][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Intermediate/Shaders/WorkingDirectory/18248/).
+[2021.08.18-03.31.50:965][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alilb/AppData/Local/Temp/UnrealShaderWorkingDir/4D1865704C0AAACA2770439334476A89/'.
+[2021.08.18-03.31.50:965][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.18-03.31.50:965][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.18-03.31.51:536][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.18-03.31.51:575][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/alilb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.18-03.31.51:575][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alilb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.18-03.31.51:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.18-03.31.51:575][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.18-03.31.51:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.18-03.31.51:575][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.18-03.31.51:584][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.18-03.31.51:584][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.18-03.31.51:584][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.18-03.31.51:591][  0]LogDerivedDataCache: Speed tests for C:/Users/alilb/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.18-03.31.51:591][  0]LogDerivedDataCache: Display: Performance to C:/Users/alilb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=488.33MBs, RandomWriteSpeed=235.22MBs. Assigned SpeedClass 'Local'
+[2021.08.18-03.31.51:591][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alilb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.18-03.31.51:591][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.18-03.31.51:591][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.18-03.31.51:627][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.18-03.31.51:627][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.18-03.31.51:645][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.08.18-03.31.51:820][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.18-03.31.51:820][  0]LogInit: Active device profile: [000001F71757AD00][000001F709376280 49] Windows
+[2021.08.18-03.31.51:820][  0]LogInit: Profiles: [000001F71757AD00][000001F709376280 49] Windows, [000001F717539600][000001F716BF0400 49] WindowsNoEditor, [000001F717579700][000001F716BF4580 49] WindowsServer, [000001F71753AE00][000001F716BF8700 49] WindowsClient, [000001F71757A700][000001F716BFC880 49] IOS, [000001F717539400][000001F716C00A00 49] iPadAir, [000001F717579500][000001F716C04B80 49] iPadAir2, [000001F717494300][000001F716C1EE40 49] IPadPro, [000001F717494400][000001F716C08E80 49] iPadAir3, [000001F71757A800][000001F716C23000 49] iPadAir4, [000001F717496600][000001F716C33180 49] iPadMini2, [000001F717579600][000001F716C37300 49] iPadMini3, [000001F717494700][000001F716C3B480 49] iPadMini4, [000001F717578D00][000001F716BED5C0 49] iPadMini5, [000001F71747BB00][000001F716C43800 49] iPhone6, [000001F71747BC00][000001F716C3F840 49] iPodTouch6, [000001F717495100][000001F716C57AC0 49] iPhone7, [000001F717496B00][000001F716C47B00 49] iPodTouch7, [000001F717479A00][000001F716C5BC80 49] iPhone5S, [000001F717496400][000001F716C66140 49] iPhone6Plus, [000001F71747BA00][000001F717C9C2C0 49] iPhone6S, [000001F717496500][000001F717CA0440 49] iPhone6SPlus, [000001F717479D00][000001F717CA45C0 49] iPhone7Plus, [000001F717497B00][000001F717CA8740 49] iPhoneSE, [000001F71747A300][000001F717CAC8C0 49] iPhone8, [000001F717496D00][000001F717CB4A40 49] iPhone8Plus, [000001F71747A000][000001F717CB8BC0 49] iPhoneX, [000001F717496200][000001F717CBCD40 49] iPhoneXS, [000001F717479C00][000001F717CC8EC0 49] iPhoneXSMax, [000001F717495A00][000001F717CCD040 49] iPhoneXR, [000001F717478100][000001F717CD11C0 49] iPhone11, [000001F717496700][000001F717CD5340 49] iPhone11Pro, [000001F71747A400][000001F717CE54C0 49] iPhone11ProMax, [000001F717495300][000001F717CE9640 49] iPhoneSE2, [000001F717479B00][000001F716C53780 49] iPhone12Mini, [000001F717496E00][000001F717CED8C0 49] iPhone12, [000001F717478600][000001F717CF1A00 49] iPhone12Pro, [000001F717495F00][000001F717CF9B80 49] iPhone12ProMax, [000001F71747B400][000001F717CFDD00 49] iPadPro105, [000001F717497D00][000001F717D181C0 49] iPadPro129, [000001F717478A00][000001F717D1C340 49] iPadPro97, [000001F717494800][000001F717D204C0 49] iPadPro2_129, [000001F717478C00][000001F717D24640 49] iPad5, [000001F717496300][000001F717D287C0 49] iPad6, [000001F717479500][000001F717D4C940 49] iPad7, [000001F717497100][000001F717D50AC0 49] iPad8, [000001F717478300][000001F717D54C40 49] iPadPro11, [000001F717494100][000001F717D58DC0 49] iPadPro2_11, [000001F71747B800][000001F717D5CF40 49] iPadPro3_129, [000001F717494200][000001F717D610C0 49] iPadPro4_129, [000001F717479E00][000001F717D65240 49] AppleTV, [000001F717495800][000001F717D693C0 49] AppleTV4K, [000001F71747B000][000001F717D6D540 49] TVOS, [000001F717497700][000001F717D9D6C0 49] Mac, [000001F71753BA00][000001F717CF5800 49] MacClient, [000001F71747B100][000001F717DA1940 49] MacNoEditor, [000001F71753B000][000001F717DA5A80 49] MacServer, [000001F717479700][000001F717DADC00 49] Linux, [000001F717538100][000001F717DB00C0 49] LinuxAArch64, [000001F7175C0900][000001F717DB4240 49] LinuxNoEditor, [000001F717539200][000001F717DB83C0 49] LinuxAArch64NoEditor, [000001F717497200][000001F717DBC540 49] LinuxClient, [000001F71753A000][000001F717DC06C0 49] LinuxAArch64Client, [000001F717497F00][000001F717DC4840 49] LinuxServer, [000001F717538800][000001F717DC89C0 49] LinuxAArch64Server, [000001F717495B00][000001F717DCCB40 49] Android, [000001F717538B00][000001F717DD0CC0 49] Android_Low, [000001F717497A00][000001F717DD4E40 49] Android_Mid, [000001F717539300][000001F717DD8FC0 49] Android_High, [000001F717494600][000001F717DDD140 49] Android_Default, [000001F71753B700][000001F717DE12C0 49] Android_Adreno4xx, [000001F717495900][000001F717DE5440 49] Android_Adreno5xx_Low, [000001F717539C00][000001F717DE95C0 49] Android_Adreno5xx, [000001F717497800][000001F717DED740 49] Android_Adreno6xx, [000001F717539900][000001F717DA9880 49] Android_Adreno6xx_Vulkan, [000001F717497E00][000001F717DF19C0 49] Android_Mali_T6xx, [000001F71753A900][000001F717DF5B00 49] Android_Mali_T7xx, [000001F717494900][000001F717DF9C40 49] Android_Mali_T8xx, [000001F717539000][000001F717E00100 49] Android_Mali_G71, [000001F717496C00][000001F717E04280 49] Android_Mali_G72, [000001F71753B600][000001F717E08400 49] Android_Mali_G72_Vulkan, [000001F717494F00][000001F717E0C580 49] Android_Mali_G76, [000001F71753B300][000001F717E10700 49] Android_Mali_G76_Vulkan, [000001F717495700][000001F717E14880 49] Android_Mali_G77, [000001F71753BE00][000001F717E18A00 49] Android_Mali_G77_Vulkan, [000001F717495200][000001F717E1CB80 49] Android_Vulkan_SM5, [000001F717538700][000001F717E20D00 49] Android_PowerVR_G6xxx, [000001F717495400][000001F717E24E80 49] Android_PowerVR_GT7xxx, [000001F71753BF00][000001F717E29000 49] Android_PowerVR_GE8xxx, [000001F717495600][000001F717E2D180 49] Android_PowerVR_GM9xxx, [000001F71753A800][000001F717E31300 49] Android_PowerVR_GM9xxx_Vulkan, [000001F717495C00][000001F717E35480 49] Android_TegraK1, [000001F71753A700][000001F717E39600 49] Android_Unknown_Vulkan, [000001F717494E00][000001F717E3D780 49] Lumin, [000001F71753AF00][000001F717DFD8C0 49] Lumin_Desktop, [000001F717497500][000001F717E41A00 49] HoloLens, 
+[2021.08.18-03.31.51:896][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.18-03.31.51:896][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.18-03.31.51:896][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.18-03.31.51:896][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.18-03.31.51:896][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.18-03.31.51:909][  0]LogNetVersion: NAMainMenuTemp 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1086639034)
+[2021.08.18-03.31.52:195][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.18-03.31.52:221][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.025355 seconds
+[2021.08.18-03.31.52:224][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.18-03.31.52:224][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.18-03.31.52:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.18-03.31.52:454][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.18-03.31.52:457][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.18-03.31.52:504][  0]SourceControl: Source control is disabled
+[2021.08.18-03.31.52:747][  0]LogUProjectInfo: Found projects:
+[2021.08.18-03.31.52:750][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.18-03.31.52:751][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.18-03.31.52:823][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.18-03.31.52:834][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.18-03.31.52:834][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.18-03.31.52:933][  0]LogCollectionManager: Loaded 0 collections in 0.000976 seconds
+[2021.08.18-03.31.52:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Collections/' took 0.00s
+[2021.08.18-03.31.52:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Developers/alilb/Collections/' took 0.00s
+[2021.08.18-03.31.52:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Collections/' took 0.00s
+[2021.08.18-03.31.52:948][  0]LogOcInput: OculusInput pre-init called
+[2021.08.18-03.31.52:956][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.18-03.31.52:956][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.18-03.31.52:991][  0]LogEngine: Initializing Engine...
+[2021.08.18-03.31.52:992][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.18-03.31.52:992][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.18-03.31.52:992][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.18-03.31.53:066][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.18-03.31.53:071][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.18-03.31.53:080][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.18-03.31.53:083][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.18-03.31.53:083][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.18-03.31.53:083][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.18-03.31.53:083][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.18-03.31.53:083][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.18-03.31.53:118][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-03.31.53:118][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-03.31.53:202][  0]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Kitty Edition)
+[2021.08.18-03.31.53:206][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.18-03.31.53:207][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.18-03.31.53:207][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.18-03.31.53:208][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.18-03.31.53:208][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.18-03.31.53:208][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.18-03.31.53:208][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.18-03.31.53:208][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.18-03.31.53:208][  0]LogInit: FAudioDevice initialized.
+[2021.08.18-03.31.53:208][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.18-03.31.53:208][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.18-03.31.53:245][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/alilb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.18-03.31.53:246][  0]LogInit: Texture streaming: Enabled
+[2021.08.18-03.31.53:254][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.18-03.31.53:255][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.18-03.31.53:255][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.18-03.31.53:257][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.18-03.31.53:278][  0]LogInit: Transaction tracking system initialized
+[2021.08.18-03.31.53:291][  0]BlueprintLog: New page: Editor Load
+[2021.08.18-03.31.53:328][  0]LocalizationService: Localization service is disabled
+[2021.08.18-03.31.53:341][  0]TimingProfiler: Initialize
+[2021.08.18-03.31.53:342][  0]TimingProfiler: OnSessionChanged
+[2021.08.18-03.31.53:342][  0]LoadingProfiler: Initialize
+[2021.08.18-03.31.53:342][  0]LoadingProfiler: OnSessionChanged
+[2021.08.18-03.31.53:342][  0]NetworkingProfiler: Initialize
+[2021.08.18-03.31.53:342][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.18-03.31.53:342][  0]MemoryProfiler: Initialize
+[2021.08.18-03.31.53:342][  0]MemoryProfiler: OnSessionChanged
+[2021.08.18-03.31.53:374][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.18-03.31.53:375][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.18-03.31.53:425][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.18-03.31.53:425][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.18-03.31.53:514][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/' took 0.00s
+[2021.08.18-03.31.53:617][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.18-03.31.53:619][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.213
+[2021.08.18-03.31.53:619][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.18-03.31.53:620][  0]LightingResults: New page: Lighting Build
+[2021.08.18-03.31.53:620][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.31.53:620][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.31.53:620][  0]MapCheck: New page: Map Check
+[2021.08.18-03.31.53:620][  0]LightingResults: New page: Lighting Build
+[2021.08.18-03.31.53:626][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.18-03.31.53:714][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.08.18-03.31.53:714][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.08.18-03.31.53:718][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.18-03.31.53:724][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.18-03.31.53:724][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.18-03.31.53:724][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2021.08.18-03.31.53:724][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.105
+[2021.08.18-03.31.53:726][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.319
+[2021.08.18-03.31.53:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-03.31.53:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-03.31.53:827][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-03.31.53:831][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-03.31.53:841][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3601 classes and 859 folders.
+[2021.08.18-03.31.53:843][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.18-03.31.53:844][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.18-03.31.53:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-03.31.53:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.18-03.31.53:844][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.18-03.31.53:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.18-03.31.53:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.18-03.31.53:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-03.31.53:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.18-03.31.53:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.18-03.31.53:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.18-03.31.53:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.18-03.31.53:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.18-03.31.53:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.18-03.31.53:847][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.18-03.31.53:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.18-03.31.53:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.18-03.31.53:847][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.18-03.31.53:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.18-03.31.53:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.18-03.31.53:848][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.18-03.31.53:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.18-03.31.53:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.18-03.31.53:848][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.18-03.31.53:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.18-03.31.53:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-03.31.53:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.18-03.31.53:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.18-03.31.53:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.18-03.31.53:850][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.18-03.31.53:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-03.31.53:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.18-03.31.53:850][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.18-03.31.53:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.18-03.31.53:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.18-03.31.53:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-03.31.53:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-03.31.53:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-03.31.53:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.18-03.31.53:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.18-03.31.53:852][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.18-03.31.53:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.18-03.31.53:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.18-03.31.53:852][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.18-03.31.53:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.18-03.31.53:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.08.18-03.31.53:853][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-03.31.53:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-03.31.53:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.08.18-03.31.53:853][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.18-03.31.53:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-03.31.53:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.18-03.31.53:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.18-03.31.53:875][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.18-03.31.53:876][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.18-03.31.53:955][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.18-03.31.53:956][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.18-03.31.53:959][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.18-03.31.54:018][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2021.08.18-03.31.54:315][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.18-03.31.54:315][  0]LogLoad: (Engine Initialization) Total time: 4.91 seconds
+[2021.08.18-03.31.54:315][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.18-03.31.54:315][  0]LogInit: First time updating LLM stats...
+[2021.08.18-03.31.54:353][  0]LogAssetRegistry: Asset discovery search completed in 2.7086 seconds
+[2021.08.18-03.31.54:353][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.08.18-03.31.54:370][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.18-03.31.54:452][  5]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.18-03.32.33:139][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.18-03.32.33:143][317]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.18-03.32.33:160][317]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels_KJ/Main_Menu_KJ.Main_Menu_KJ
+[2021.08.18-03.32.33:160][317]Cmd: MAP LOAD FILE="../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/Main_Menu_KJ.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.18-03.32.33:160][317]LightingResults: New page: Lighting Build
+[2021.08.18-03.32.33:160][317]LoadErrors: New page: Loading map: Main_Menu_KJ.umap
+[2021.08.18-03.32.33:161][317]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.32.33:161][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.32.33:161][317]MapCheck: New page: Map Check
+[2021.08.18-03.32.33:161][317]LightingResults: New page: Lighting Build
+[2021.08.18-03.32.33:164][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.18-03.32.33:165][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.18-03.32.33:165][317]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_KJ'.
+[2021.08.18-03.32.33:206][317]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.18-03.32.33:206][317]LogAIModule: Creating AISystem for world Main_Menu_KJ
+[2021.08.18-03.32.33:210][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.18-03.32.33:212][317]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.18-03.32.33:212][317]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.08.18-03.32.33:212][317]LogFileHelpers: Loading map 'Main_Menu_KJ' took 0.052
+[2021.08.18-03.32.36:266][500]LogEditorViewport: Clicking Background
+[2021.08.18-03.32.40:308][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.18-03.33.06:147][950]LogTemp: Repeating last play command: Standalone Game
+[2021.08.18-03.33.06:152][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.18-03.34.05:610][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.08.18-03.34.27:746][369]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu_KJ/Main_Menu_Widget.Main_Menu_Widget
+[2021.08.18-03.34.27:814][369]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.08.18-03.34.28:587][369]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.18-03.34.49:710][628]LogEditorTransaction: Undo Remove Widget
+[2021.08.18-03.35.12:040][948]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.18-03.35.25:633][756]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.08.18-03.35.25:675][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.08.18-03.35.26:899][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_KJ/Main_Menu_Widget" FILE="../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Main_Menu_KJ/Main_Menu_Widget.uasset" SILENT=true
+[2021.08.18-03.35.26:906][825]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Main_Menu_WidgetF8F3B0F442C4618428719093D22B6B58.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Main_Menu_KJ/Main_Menu_Widget.uasset'
+[2021.08.18-03.35.26:915][825]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.08.18-03.35.26:915][825]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu_KJ/Main_Menu_Widget.Main_Menu_Widget
+[2021.08.18-03.35.33:512][217]LogSlate: Window 'Main_Menu_Widget' being destroyed
+[2021.08.18-03.35.33:515][217]LogSlate: Window 'Main_Menu_Widget' being destroyed
+[2021.08.18-03.35.33:518][217]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.35.33:518][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.35.33:523][217]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.35.33:523][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.35.36:957][421]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu_KJ/Settings_Menu_Widget.Settings_Menu_Widget
+[2021.08.18-03.35.43:582][794]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Settings_Menu_WidgetB41EA3B34CEBC7C0397B959B0BB07DD1.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Main_Menu_KJ/Settings_Menu_Widget.uasset'
+[2021.08.18-03.35.43:591][794]AssetCheck: New page: Asset Save: Settings_Menu_Widget
+[2021.08.18-03.35.43:591][794]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu_KJ/Settings_Menu_Widget.Settings_Menu_Widget
+[2021.08.18-03.35.44:573][852]LogSlate: Window 'Settings_Menu_Widget' being destroyed
+[2021.08.18-03.35.44:575][852]LogSlate: Window 'Settings_Menu_Widget' being destroyed
+[2021.08.18-03.35.44:577][852]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.35.44:577][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.35.44:583][852]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.35.44:583][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.35.50:789][223]LogTemp: Repeating last play command: Standalone Game
+[2021.08.18-03.35.50:829][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.08.18-03.36.53:382][594]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu_KJ/Main_Menu_Widget.Main_Menu_Widget
+[2021.08.18-03.37.40:782][400]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu_KJ/Settings_Menu_Widget.Settings_Menu_Widget
+[2021.08.18-03.40.07:589][204]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-03.40.13:290][544]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-03.40.18:906][878]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-03.40.22:849][112]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-03.40.27:867][411]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-03.40.31:898][650]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-03.40.35:895][887]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-03.40.37:762][998]BlueprintLog: New page: Compile Settings_Menu_Widget
+[2021.08.18-03.40.37:796][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.18-03.40.38:575][ 38]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Settings_Menu_Widget1A9874964888C68F1C534CBB997391D6.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Main_Menu_KJ/Settings_Menu_Widget.uasset'
+[2021.08.18-03.40.38:585][ 38]AssetCheck: New page: Asset Save: Settings_Menu_Widget
+[2021.08.18-03.40.38:585][ 38]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu_KJ/Settings_Menu_Widget.Settings_Menu_Widget
+[2021.08.18-03.40.55:219][687]LogSlate: Window 'Settings_Menu_Widget' being destroyed
+[2021.08.18-03.40.55:222][687]LogSlate: Window 'Settings_Menu_Widget' being destroyed
+[2021.08.18-03.40.55:224][687]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.40.55:224][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.40.55:228][687]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.40.55:228][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.40.55:262][687]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.40.55:262][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.40.55:266][687]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.40.55:266][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.41.00:966][ 27]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu_KJ/Main_Menu_Widget.Main_Menu_Widget
+[2021.08.18-03.41.29:872][174]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.08.18-03.41.29:898][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.08.18-03.41.30:494][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_KJ/Main_Menu_Widget" FILE="../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Main_Menu_KJ/Main_Menu_Widget.uasset" SILENT=true
+[2021.08.18-03.41.30:500][206]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Main_Menu_WidgetBFEE4F26413DF159F819D39CEFADE3B6.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Main_Menu_KJ/Main_Menu_Widget.uasset'
+[2021.08.18-03.41.30:508][206]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.08.18-03.41.30:509][206]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu_KJ/Main_Menu_Widget.Main_Menu_Widget
+[2021.08.18-03.41.31:648][274]LogSlate: Window 'Main_Menu_Widget' being destroyed
+[2021.08.18-03.41.31:652][274]LogSlate: Window 'Main_Menu_Widget' being destroyed
+[2021.08.18-03.41.31:655][274]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.41.31:655][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.41.31:658][274]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.41.31:658][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.41.32:661][333]LogTemp: Repeating last play command: Standalone Game
+[2021.08.18-03.41.32:677][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.08.18-03.42.41:376][592]LogTemp: Repeating last play command: Standalone Game
+[2021.08.18-03.42.41:391][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.08.18-03.43.38:311][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.08.18-03.43.38:316][ 25]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Main_Menu_KJ2D12EEA24EE7279D24B47AB3CF95D86F.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/Main_Menu_KJ.umap'
+[2021.08.18-03.43.38:386][ 25]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Main_Menu_KJ_BuiltData20739DB04132B9843588A7BE1E4078A2.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/Main_Menu_KJ_BuiltData.uasset'
+[2021.08.18-03.43.38:396][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-03.43.38:396][ 25]LogContentValidation: Display: Validating World /Game/Levels_KJ/Main_Menu_KJ.Main_Menu_KJ
+[2021.08.18-03.43.38:396][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels_KJ/Main_Menu_KJ_BuiltData.Main_Menu_KJ_BuiltData
+[2021.08.18-03.45.12:042][689]LogTemp: Repeating last play command: Standalone Game
+[2021.08.18-03.45.12:058][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.08.18-03.45.19:813][766]LogRHI: Error: Present Fail Count 1
+[2021.08.18-03.45.19:813][766]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.19:813][766]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.19:813][766]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.19:813][766]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.19:813][766]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.19:813][766]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.19:813][766]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.19:814][766]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:598][782]LogRHI: Error: Present Fail Count 2
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:599][782]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:649][785]LogRHI: Error: Present Fail Count 3
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:649][785]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:698][788]LogRHI: Error: Present Fail Count 4
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:698][788]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:748][791]LogRHI: Error: Present Fail Count 5
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:748][791]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:800][794]LogRHI: Error: Present Fail Count 6
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:800][794]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:850][797]LogRHI: Error: Present Fail Count 7
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:850][797]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:898][800]LogRHI: Error: Present Fail Count 8
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:898][800]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:949][803]LogRHI: Error: Present Fail Count 9
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:949][803]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.24:998][806]LogRHI: Error: Present Fail Count 10
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.24:998][806]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.25:032][809]LogRHI: Error: Present Fail Count 11
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SyncInterval 0
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1290
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferDesc.Height 730
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070994
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.18-03.45.25:033][809]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.18-03.45.25:033][809]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:428 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2021.08.18-03.45.25:033][809]LogD3D11RHI: [Aftermath] GDynamicRHI=000001F774A0D300, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.08.18-03.45.25:033][809]LogWindows: Windows GetLastError: The operation completed successfully. (0)
