@@ -818,6 +818,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.06-03.04.13:751][207]LogSlate: Took 0.000965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2021.10.06-03.04.15:340][216]LogSlate: Window 'Message Log' being destroyed
 [2021.10.06-03.04.15:376][216]LogSlate: Window 'Message Log' being destroyed
+<<<<<<< Updated upstream
 [2021.10.06-03.05.01:297][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
 [2021.10.06-03.05.01:320][445]LogSlate: Window 'NAMainMenuTemp - Unreal Editor' being destroyed
 [2021.10.06-03.05.01:321][445]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
@@ -1352,3 +1353,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.06-03.05.04:504][446]LogD3D11RHI: CleanupD3DDevice
 [2021.10.06-03.05.04:573][446]LogExit: Exiting.
 [2021.10.06-03.05.04:581][446]Log file closed, 10/05/21 22:05:04
+=======
+>>>>>>> Stashed changes
