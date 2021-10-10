@@ -1,0 +1,1542 @@
+﻿Log file open, 10/10/21 00:00:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: NAMainMenuTemp
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189752
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/alilb/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.10.10-05.00.06:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.10-05.00.06:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.10.10-05.00.06:292][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.10.10-05.00.06:301][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.10-05.00.06:301][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.10-05.00.06:302][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.10-05.00.06:302][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.10-05.00.06:302][  0]LogHAL: Display: Platform has ~ 16 GB [16866869248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.10-05.00.06:302][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Scalability.ini]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.10-05.00.06:302][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.10-05.00.06:303][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.10-05.00.06:303][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.10-05.00.06:303][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.10-05.00.06:303][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Engine.ini]
+[2021.10.10-05.00.06:303][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Config/Windows/Editor.ini]
+[2021.10.10-05.00.06:303][  0]LogInit: Computer: MSI
+[2021.10.10-05.00.06:303][  0]LogInit: User: alilb
+[2021.10.10-05.00.06:303][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.10.10-05.00.06:303][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.10-05.00.06:303][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.10.10-05.00.06:303][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.10-05.00.06:303][  0]LogMemory: Process Physical Memory: 140.99 MB used, 140.99 MB peak
+[2021.10.10-05.00.06:303][  0]LogMemory: Process Virtual Memory: 129.74 MB used, 129.74 MB peak
+[2021.10.10-05.00.06:303][  0]LogMemory: Physical Memory: 8828.26 MB used,  7257.24 MB free, 16085.50 MB total
+[2021.10.10-05.00.06:303][  0]LogMemory: Virtual Memory: 134210856.00 MB used,  6869.63 MB free, 134217728.00 MB total
+[2021.10.10-05.00.06:335][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.10-05.00.06:360][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.10-05.00.06:363][  0]LogInit: Using OS detected language (en-US).
+[2021.10.10-05.00.06:363][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.10-05.00.06:365][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.10-05.00.06:488][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.10-05.00.06:498][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.10-05.00.06:508][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.10-05.00.06:508][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.10-05.00.06:597][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.10-05.00.06:597][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.10-05.00.06:597][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.10-05.00.06:597][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.10-05.00.06:673][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2021.10.10-05.00.06:673][  0]LogD3D11RHI:       6023/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.10-05.00.06:701][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.10.10-05.00.06:701][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.10.10-05.00.06:703][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.10-05.00.06:703][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.10-05.00.06:703][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.10-05.00.06:710][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.10-05.00.06:710][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.10-05.00.06:710][  0]LogWindows: EnumDisplayDevices:
+[2021.10.10-05.00.06:710][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.10.10-05.00.06:710][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.10.10-05.00.06:711][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.10.10-05.00.06:711][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.10.10-05.00.06:711][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1)
+[2021.10.10-05.00.06:711][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.10.10-05.00.06:711][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.10.10-05.00.06:711][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.10.10-05.00.06:711][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.10.10-05.00.06:711][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2021.10.10-05.00.06:711][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.10.10-05.00.06:711][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.10.10-05.00.06:711][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2021.10.10-05.00.06:768][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.10-05.00.06:768][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.10-05.00.06:768][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.10-05.00.06:782][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.10-05.00.06:783][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.10-05.00.06:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.10-05.00.07:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.10-05.00.07:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.10-05.00.07:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.10-05.00.07:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.10-05.00.07:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.10-05.00.07:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.10-05.00.07:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.10-05.00.07:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.10-05.00.07:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.10-05.00.07:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.10-05.00.07:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.10-05.00.07:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.10-05.00.07:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.10-05.00.07:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.10-05.00.07:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.10-05.00.07:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.10-05.00.07:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.10-05.00.07:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.10-05.00.07:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.10-05.00.07:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.10-05.00.07:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.10-05.00.07:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.10-05.00.07:148][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.10-05.00.07:153][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.10-05.00.07:189][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.10-05.00.07:189][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Intermediate/Shaders/WorkingDirectory/26784/).
+[2021.10.10-05.00.07:189][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alilb/AppData/Local/Temp/UnrealShaderWorkingDir/D407E3304EC89609F2C42AA686559D28/'.
+[2021.10.10-05.00.07:189][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.10-05.00.07:189][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.10-05.00.07:758][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.10-05.00.07:797][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/alilb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.10-05.00.07:797][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alilb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.10-05.00.07:797][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.10-05.00.07:797][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.10-05.00.07:797][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.10-05.00.07:797][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.10-05.00.07:806][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.10-05.00.07:806][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.10-05.00.07:806][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.10-05.00.07:813][  0]LogDerivedDataCache: Speed tests for C:/Users/alilb/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.10-05.00.07:813][  0]LogDerivedDataCache: Display: Performance to C:/Users/alilb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=285.96MBs, RandomWriteSpeed=298.04MBs. Assigned SpeedClass 'Local'
+[2021.10.10-05.00.07:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alilb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.10-05.00.07:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.10-05.00.07:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.10-05.00.07:850][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.10-05.00.07:851][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.10-05.00.07:867][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.10.10-05.00.08:031][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.10-05.00.08:031][  0]LogInit: Active device profile: [000001D731D06100][000001D7315B2D00 49] Windows
+[2021.10.10-05.00.08:031][  0]LogInit: Profiles: [000001D731D06100][000001D7315B2D00 49] Windows, [000001D731CA6300][000001D7315BAE80 49] WindowsNoEditor, [000001D731D05500][000001D7315BF000 49] WindowsServer, [000001D731CA6E00][000001D7315C3180 49] WindowsClient, [000001D731D04A00][000001D7315C7300 49] IOS, [000001D731CA6100][000001D7315CB480 49] iPadAir, [000001D731D05300][000001D7315B75C0 49] iPadAir2, [000001D731C5A400][000001D73285D800 49] IPadPro, [000001D731C5A500][000001D732859840 49] iPadAir3, [000001D731CA5400][000001D732861980 49] iPadAir4, [000001D731C5A600][000001D732869B00 49] iPadMini2, [000001D731CA5600][000001D73286DC80 49] iPadMini3, [000001D731C59200][000001D732870140 49] iPadMini4, [000001D731CA6400][000001D7328742C0 49] iPadMini5, [000001D731C65D00][000001D73287C580 49] iPhone6, [000001D731C65E00][000001D7328785C0 49] iPodTouch6, [000001D731C5A000][000001D732884880 49] iPhone7, [000001D731C59F00][000001D7328808C0 49] iPodTouch7, [000001D731C67500][000001D732888A40 49] iPhone5S, [000001D731C5B300][000001D73288CBC0 49] iPhone6Plus, [000001D731C65400][000001D732890D40 49] iPhone6S, [000001D731C5B700][000001D732894EC0 49] iPhone6SPlus, [000001D731C64200][000001D732899040 49] iPhone7Plus, [000001D731C5B100][000001D73289D1C0 49] iPhoneSE, [000001D731C66400][000001D7328A1340 49] iPhone8, [000001D731C59700][000001D7328B74C0 49] iPhone8Plus, [000001D731C65C00][000001D7328BB640 49] iPhoneX, [000001D731C5A200][000001D732865780 49] iPhoneXS, [000001D731C64300][000001D7170758C0 49] iPhoneXSMax, [000001D731C59900][000001D717079A00 49] iPhoneXR, [000001D731C67200][000001D7328C3B80 49] iPhone11, [000001D731C5B900][000001D7328F3D00 49] iPhone11Pro, [000001D731C66900][000001D7328F61C0 49] iPhone11ProMax, [000001D731C59300][000001D73290A340 49] iPhoneSE2, [000001D731C66000][000001D73291A4C0 49] iPhone12Mini, [000001D731C58400][000001D732968640 49] iPhone12, [000001D731C67A00][000001D73296C7C0 49] iPhone12Pro, [000001D731C59000][000001D732988940 49] iPhone12ProMax, [000001D731C66500][000001D73298CAC0 49] iPadPro105, [000001D731C59800][000001D732990C40 49] iPadPro129, [000001D731D04200][000001D732994DC0 49] iPadPro97, [000001D731C5B000][000001D732998F40 49] iPadPro2_129, [000001D731D06A00][000001D7329A90C0 49] iPad5, [000001D731C58C00][000001D7329AD240 49] iPad6, [000001D731D04400][000001D7329B13C0 49] iPad7, [000001D731C5AA00][000001D7329B5540 49] iPad8, [000001D731D06C00][000001D7329BD6C0 49] iPadPro11, [000001D731C5A300][000001D7328BF800 49] iPadPro2_11, [000001D731D06500][000001D7329C9940 49] iPadPro3_129, [000001D731C58A00][000001D7329CDA80 49] iPadPro4_129, [000001D731D04800][000001D7339F1C00 49] AppleTV, [000001D731C59E00][000001D7339F40C0 49] AppleTV4K, [000001D731D05D00][000001D7339F8240 49] TVOS, [000001D731C58900][000001D7339FC3C0 49] Mac, [000001D731D05A00][000001D733A00540 49] MacClient, [000001D731C5A100][000001D733A046C0 49] MacNoEditor, [000001D731D06700][000001D733A08840 49] MacServer, [000001D731C58200][000001D733A0C9C0 49] Linux, [000001D731D04C00][000001D733A10B40 49] LinuxAArch64, [000001D731C59B00][000001D733A14CC0 49] LinuxNoEditor, [000001D731D05400][000001D733A18E40 49] LinuxAArch64NoEditor, [000001D731C5A700][000001D733A3CFC0 49] LinuxClient, [000001D731D07200][000001D733A41140 49] LinuxAArch64Client, [000001D731C59400][000001D733A452C0 49] LinuxServer, [000001D731D04900][000001D733A49440 49] LinuxAArch64Server, [000001D731C5BD00][000001D733A4D5C0 49] Android, [000001D731D04300][000001D733A51740 49] Android_Low, [000001D731C5B400][000001D7329DD880 49] Android_Mid, [000001D731D05100][000001D733A559C0 49] Android_High, [000001D731C58800][000001D733A59B00 49] Android_Default, [000001D731D04D00][000001D733A5DC40 49] Android_Adreno4xx, [000001D731C5A900][000001D733A64100 49] Android_Adreno5xx_Low, [000001D731D06000][000001D733A68280 49] Android_Adreno5xx, [000001D731C58F00][000001D733A6C400 49] Android_Adreno6xx, [000001D731D05B00][000001D733A70580 49] Android_Adreno6xx_Vulkan, [000001D731C5B600][000001D733A74700 49] Android_Mali_T6xx, [000001D731D06B00][000001D733A78880 49] Android_Mali_T7xx, [000001D731C5AF00][000001D733A7CA00 49] Android_Mali_T8xx, [000001D731D04100][000001D733A80B80 49] Android_Mali_G71, [000001D731C59600][000001D733A84D00 49] Android_Mali_G72, [000001D731D06F00][000001D733A88E80 49] Android_Mali_G72_Vulkan, [000001D731CA4200][000001D733A8D000 49] Android_Mali_G76, [000001D731C67000][000001D733A91180 49] Android_Mali_G76_Vulkan, [000001D731CA4800][000001D733A95300 49] Android_Mali_G77, [000001D731C66600][000001D733AD5480 49] Android_Mali_G77_Vulkan, [000001D731CA5C00][000001D733AD9600 49] Android_Vulkan_SM5, [000001D731C66100][000001D733ADD780 49] Android_PowerVR_G6xxx, [000001D731CA7500][000001D733A618C0 49] Android_PowerVR_GT7xxx, [000001D731C67800][000001D733AE1A00 49] Android_PowerVR_GE8xxx, [000001D731CA6D00][000001D733AE5B40 49] Android_PowerVR_GM9xxx, [000001D731C66B00][000001D733AE9C80 49] Android_PowerVR_GM9xxx_Vulkan, [000001D731CA4E00][000001D733AF0140 49] Android_TegraK1, [000001D731C64C00][000001D733AF42C0 49] Android_Unknown_Vulkan, [000001D731CA7600][000001D733AF8440 49] Lumin, [000001D731C67100][000001D733AFC5C0 49] Lumin_Desktop, [000001D731CA6000][000001D733B00740 49] HoloLens, 
+[2021.10.10-05.00.08:109][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.10-05.00.08:109][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.10-05.00.08:109][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.10-05.00.08:109][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.10-05.00.08:109][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.10-05.00.08:121][  0]LogNetVersion: NAMainMenuTemp 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1086639034)
+[2021.10.10-05.00.08:407][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.10-05.00.08:431][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.023610 seconds
+[2021.10.10-05.00.08:434][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.10.10-05.00.08:434][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.10.10-05.00.08:434][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.10-05.00.08:674][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.10-05.00.08:677][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.10-05.00.08:678][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.08:678][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.08:678][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.08:747][  0]SourceControl: Source control is disabled
+[2021.10.10-05.00.08:998][  0]LogUProjectInfo: Found projects:
+[2021.10.10-05.00.09:142][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.10-05.00.09:155][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.10-05.00.09:155][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.10-05.00.09:184][  0]LogCollectionManager: Loaded 0 collections in 0.001042 seconds
+[2021.10.10-05.00.09:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/Collections/' took 0.00s
+[2021.10.10-05.00.09:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Developers/alilb/Collections/' took 0.00s
+[2021.10.10-05.00.09:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Collections/' took 0.00s
+[2021.10.10-05.00.09:200][  0]LogOcInput: OculusInput pre-init called
+[2021.10.10-05.00.09:207][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.10-05.00.09:207][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.10-05.00.09:244][  0]LogEngine: Initializing Engine...
+[2021.10.10-05.00.09:244][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.10-05.00.09:244][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.10-05.00.09:245][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.10-05.00.09:321][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.10-05.00.09:326][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.10-05.00.09:335][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.10-05.00.09:337][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.10-05.00.09:337][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-05.00.09:337][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-05.00.09:337][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-05.00.09:337][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-05.00.09:375][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-05.00.09:375][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-05.00.09:401][  0]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Kitty Edition)
+[2021.10.10-05.00.09:404][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-05.00.09:405][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-05.00.09:405][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-05.00.09:406][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-05.00.09:406][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-05.00.09:406][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-05.00.09:407][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-05.00.09:407][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-05.00.09:407][  0]LogInit: FAudioDevice initialized.
+[2021.10.10-05.00.09:407][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.10-05.00.09:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.10-05.00.09:444][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/alilb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.10-05.00.09:445][  0]LogInit: Texture streaming: Enabled
+[2021.10.10-05.00.09:454][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.10-05.00.09:456][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.10-05.00.09:456][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={0B9516BA-4EEC-A857-95A9-CD810D05CE7E}
+[2021.10.10-05.00.09:456][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.10-05.00.09:457][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.10-05.00.09:477][  0]LogInit: Transaction tracking system initialized
+[2021.10.10-05.00.09:490][  0]BlueprintLog: New page: Editor Load
+[2021.10.10-05.00.09:534][  0]LocalizationService: Localization service is disabled
+[2021.10.10-05.00.09:548][  0]TimingProfiler: Initialize
+[2021.10.10-05.00.09:548][  0]TimingProfiler: OnSessionChanged
+[2021.10.10-05.00.09:548][  0]LoadingProfiler: Initialize
+[2021.10.10-05.00.09:548][  0]LoadingProfiler: OnSessionChanged
+[2021.10.10-05.00.09:548][  0]NetworkingProfiler: Initialize
+[2021.10.10-05.00.09:548][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.10-05.00.09:548][  0]MemoryProfiler: Initialize
+[2021.10.10-05.00.09:548][  0]MemoryProfiler: OnSessionChanged
+[2021.10.10-05.00.09:646][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.10-05.00.09:646][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.10-05.00.09:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/' took 0.00s
+[2021.10.10-05.00.09:854][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.10-05.00.09:856][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.192
+[2021.10.10-05.00.09:856][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.10-05.00.09:856][  0]LightingResults: New page: Lighting Build
+[2021.10.10-05.00.09:857][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-05.00.09:857][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-05.00.09:857][  0]MapCheck: New page: Map Check
+[2021.10.10-05.00.09:857][  0]LightingResults: New page: Lighting Build
+[2021.10.10-05.00.09:862][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.10-05.00.10:000][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Models_KJ\Animal_Collectable_KJ\Elephant_Model_CS.uasset: Failed to load '/Game/Materials_EC/Elephant_MAT_ZL': Can't find file.
+[2021.10.10-05.00.10:000][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Models_KJ\Animal_Collectable_KJ\Elephant_Model_CS.uasset: Failed to load '/Game/Materials_EC/Elephant_MAT_ZL': Can't find file.
+[2021.10.10-05.00.10:000][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Models_KJ\Animal_Collectable_KJ\Elephant_Model_CS.uasset: Failed to load '/Game/Materials_EC/Elephant_MAT_ZL': Can't find file.
+[2021.10.10-05.00.10:045][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:046][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:060][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Audio_DL/Sounds_DL/Geyser_Rise': Can't find file.
+[2021.10.10-05.00.10:060][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Audio_DL/Sounds_DL/Geyser_Rise': Can't find file.
+[2021.10.10-05.00.10:060][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:073][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:073][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Audio_DL/Sounds_DL/Geyser_Rise': Can't find file.
+[2021.10.10-05.00.10:074][  0]LogLinker: Warning: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:074][  0]LogLinker: Warning: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:074][  0]LogLinker: Warning: Failed to load '/Game/Audio_DL/Sounds_DL/Geyser_Rise': Can't find file.
+[2021.10.10-05.00.10:074][  0]LogLinker: Warning: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:074][  0]LogLinker: Warning: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:074][  0]LogLinker: Warning: Failed to load '/Game/Audio_DL/Sounds_DL/Geyser_Rise': Can't find file.
+[2021.10.10-05.00.10:074][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:075][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:075][  0]LoadErrors: Failed to load /Game/Blueprints_KJ/SteamTrigger_KJ.SteamTrigger_KJ_C Referenced by Default__MainLevel_KJ_C
+[2021.10.10-05.00.10:075][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:075][  0]LoadErrors: Failed to load /Game/Blueprints_KJ/SteamTrigger_KJ.SteamTrigger_KJ_C Referenced by MainLevel_KJ
+[2021.10.10-05.00.10:075][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Blueprints_KJ/SteamTrigger_KJ': Can't find file.
+[2021.10.10-05.00.10:075][  0]LoadErrors: Failed to load /Game/Blueprints_KJ/SteamTrigger_KJ.SteamTrigger_KJ_C Referenced by K2Node_VariableGet_0
+[2021.10.10-05.00.10:076][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: Failed to load '/Game/Audio_DL/Sounds_DL/Geyser_Rise': Can't find file.
+[2021.10.10-05.00.10:076][  0]LoadErrors: Failed to load /Game/Audio_DL/Sounds_DL/Geyser_Rise.Geyser_Rise Referenced by K2Node_CallFunction_4
+[2021.10.10-05.00.10:077][  0]LogBlueprint: Error: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Levels_KJ\MainLevel_KJ.umap: [Compiler] In use pin  Steam  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.10.10-05.00.10:090][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Models_KJ\Animal_Collectable_KJ\Elephant_Model_CS.uasset: Failed to load '/Game/Materials_EC/Elephant_MAT_ZL': Can't find file.
+[2021.10.10-05.00.10:090][  0]LoadErrors: Failed to load /Game/Materials_EC/Elephant_MAT_ZL.Elephant_MAT_ZL Referenced by Elephant_Model_CS
+[2021.10.10-05.00.10:090][  0]LogLinker: Warning: [AssetLog] C:\Users\alilb\Documents\Unreal Projects\NAMainMenuTemp\Content\Models_KJ\Animal_Collectable_KJ\Elephant_Model_CS.uasset: Failed to load '/Game/Materials_EC/Elephant_MAT_ZL': Can't find file.
+[2021.10.10-05.00.10:090][  0]LoadErrors: Failed to load /Game/Materials_EC/Elephant_MAT_ZL.Elephant_MAT_ZL Referenced by Elephant_Model_CS
+[2021.10.10-05.00.10:167][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel_KJ'.
+[2021.10.10-05.00.10:168][  0]LogAIModule: Creating AISystem for world MainLevel_KJ
+[2021.10.10-05.00.10:178][  0]LogMaterial: Display: Material /Game/Materials_EC/MasterMAT2Sides_EC.MasterMAT2Sides_EC needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.10.10-05.00.10:184][  0]LogMaterial: Display: Missing cached shader map for material MasterMAT2Sides_EC, compiling. 
+[2021.10.10-05.00.10:258][  0]MapCheck: Warning: MasterMAT2Sides_EC Material /Game/Materials_EC/MasterMAT2Sides_EC.MasterMAT2Sides_EC was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 92
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 84
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 76
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 68
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 60
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 52
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 44
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 36
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 28
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.10.10-05.00.10:278][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.10.10-05.00.10:278][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.10-05.00.10:288][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.10-05.00.10:289][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.10-05.00.10:289][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.168ms to complete.
+[2021.10.10-05.00.10:291][  0]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.10:320][  0]LogFileHelpers: Loading map 'MainLevel_KJ' took 0.464
+[2021.10.10-05.00.10:322][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.658
+[2021.10.10-05.00.10:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-05.00.10:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-05.00.10:446][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-05.00.10:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-05.00.10:470][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3601 classes and 859 folders.
+[2021.10.10-05.00.10:473][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.10-05.00.10:475][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.10-05.00.10:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.10-05.00.10:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.10.10-05.00.10:475][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.10-05.00.10:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.10-05.00.10:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.10.10-05.00.10:476][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.10-05.00.10:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.10-05.00.10:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.10.10-05.00.10:477][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.10-05.00.10:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.10-05.00.10:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.10.10-05.00.10:477][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.10-05.00.10:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.10-05.00.10:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.10.10-05.00.10:478][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.10-05.00.10:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.10-05.00.10:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.10.10-05.00.10:479][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.10-05.00.10:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.10-05.00.10:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.10.10-05.00.10:479][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.10-05.00.10:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.10-05.00.10:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.10.10-05.00.10:480][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.10-05.00.10:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.10-05.00.10:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.10.10-05.00.10:481][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.10-05.00.10:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.10-05.00.10:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.10-05.00.10:481][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.10-05.00.10:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.10-05.00.10:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.10-05.00.10:482][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.10-05.00.10:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.10-05.00.10:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.10-05.00.10:483][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.10-05.00.10:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.10-05.00.10:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.10-05.00.10:483][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.10-05.00.10:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.10-05.00.10:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.10-05.00.10:484][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.10-05.00.10:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.10-05.00.10:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.10-05.00.10:485][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.10-05.00.10:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.10-05.00.10:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.10-05.00.10:486][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.10-05.00.10:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.10-05.00.10:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.10-05.00.10:486][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.10-05.00.10:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.10-05.00.10:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.10-05.00.10:487][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.10-05.00.10:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.10-05.00.10:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.10-05.00.10:488][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.10-05.00.10:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.10-05.00.10:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.10-05.00.10:488][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.10-05.00.10:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.10-05.00.10:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.10-05.00.10:489][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.10-05.00.10:489][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:489][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.10-05.00.10:489][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.10-05.00.10:490][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.10-05.00.10:490][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:490][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.10-05.00.10:490][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.10.10-05.00.10:490][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.10-05.00.10:490][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:490][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.10-05.00.10:490][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.10.10-05.00.10:491][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.10-05.00.10:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.10-05.00.10:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.10-05.00.10:492][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.10-05.00.10:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-05.00.10:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.10-05.00.10:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.10.10-05.00.10:536][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.10-05.00.10:537][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.10.10-05.00.10:692][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.10-05.00.10:695][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.10-05.00.10:702][  0]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.10-05.00.10:834][  0]LogRenderer: Reallocating scene render targets to support 1120x600 Format 10 NumSamples 1 (Frame:1).
+[2021.10.10-05.00.11:079][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.10.10-05.00.11:079][  0]LogLoad: (Engine Initialization) Total time: 5.41 seconds
+[2021.10.10-05.00.11:079][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.10-05.00.11:079][  0]LogInit: First time updating LLM stats...
+[2021.10.10-05.00.11:104][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': SteamTrigger_KJ_C /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ:PersistentLevel.SteamTrigger_KJ_2
+[2021.10.10-05.00.11:145][  0]LogAssetRegistry: Asset discovery search completed in 3.2790 seconds
+[2021.10.10-05.00.11:147][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.10.10-05.00.11:233][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.10-05.00.11:379][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.10-05.00.11:493][  2]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.10-05.00.12:297][ 12]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.12:297][ 12]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.12:297][ 12]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.12:344][ 13]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.14:309][108]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.14:309][108]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.14:309][108]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.14:328][109]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.16:520][228]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.16:520][228]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.16:520][228]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.16:539][229]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.18:729][349]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.18:729][349]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.18:729][349]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.18:749][350]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.20:939][470]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.20:939][470]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.20:939][470]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.20:959][471]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.22:892][587]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-05.00.22:895][587]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-05.00.23:051][591]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.23:051][591]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.23:051][591]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.23:072][592]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.25:260][712]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.25:260][712]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.25:260][712]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.25:280][713]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.27:469][833]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.27:469][833]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.27:469][833]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.27:492][835]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.27:600][840]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.10-05.00.28:103][870]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ:PersistentLevel.MainLevel_KJ
+[2021.10.10-05.00.28:223][870]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.10.10-05.00.28:787][870]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.10-05.00.28:813][871]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.10-05.00.28:976][872]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.28:976][872]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.28:976][872]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.28:993][873]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.30:985][982]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.30:985][982]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.30:985][982]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.31:006][983]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.33:194][102]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.33:194][102]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.33:194][102]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.33:208][103]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.35:203][211]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.35:203][211]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.35:203][211]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.35:223][212]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.37:412][332]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.37:412][332]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.37:412][332]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.37:432][333]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.39:622][451]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.39:622][451]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.39:622][451]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.39:642][452]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.40:830][512]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.40:830][512]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.40:830][512]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.40:849][513]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.43:039][633]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.43:039][633]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.43:039][633]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.43:059][634]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.45:249][753]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.45:249][753]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.45:249][753]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.45:276][755]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.47:270][815]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.10-05.00.47:273][815]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.10-05.00.47:285][815]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.10-05.00.47:459][817]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.47:459][817]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.47:459][817]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.47:479][818]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.48:665][878]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.48:665][878]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.48:665][878]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.48:685][879]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.50:874][999]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.50:874][999]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.50:874][999]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.50:894][  0]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.53:085][120]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.53:085][120]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.53:085][120]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.53:105][121]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.55:294][241]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.55:294][241]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.55:294][241]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.55:314][242]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.55:548][256]LogContentBrowser: Attempting asset rename: NewBlueprint -> SteamTrigger_KJ
+[2021.10.10-05.00.55:591][256]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.10.10-05.00.57:504][360]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.57:504][360]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.57:504][360]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.57:519][360]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.00.57:580][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.10-05.00.57:651][360]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/MainLevel_KJF9AEE3D1437030C0B5CF57AE028425F2.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ.umap'
+[2021.10.10-05.00.58:148][360]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/MainLevel_KJ_BuiltDataC8C3595848CA11D4AF1EA1A5B9C274A1.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ_BuiltData.uasset'
+[2021.10.10-05.00.58:156][360]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.10-05.00.58:156][360]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels_KJ/MainLevel_KJ_BuiltData.MainLevel_KJ_BuiltData
+[2021.10.10-05.00.58:157][360]LogContentValidation: Display: Validating World /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ
+[2021.10.10-05.00.59:514][420]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.00.59:514][420]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.00.59:514][420]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.00.59:534][421]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.00:720][481]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.00:720][481]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.00:720][481]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.00:739][482]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.02:306][573]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.10-05.01.02:929][601]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.02:929][601]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.02:929][601]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.02:955][603]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.05:140][722]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.05:140][722]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.05:140][722]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.05:166][724]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.06:347][782]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.06:347][782]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.06:347][782]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.06:366][783]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.08:568][802]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.10.10-05.01.08:757][804]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.08:757][804]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.08:757][804]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.08:775][805]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.10:767][915]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.10:767][915]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.10:767][915]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.10:787][916]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.12:977][ 36]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.12:977][ 36]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.12:977][ 36]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.12:996][ 37]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.13:713][ 80]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.10.10-05.01.13:716][ 80]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.10.10-05.01.15:187][155]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.15:188][155]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.15:188][155]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.15:205][156]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.17:196][264]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.17:196][264]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.17:196][264]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.17:230][266]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.19:407][385]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.19:407][385]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.19:407][385]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.19:434][387]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.21:617][506]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.21:617][506]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.21:617][506]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.21:637][507]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.23:825][627]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.23:825][627]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.23:825][627]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.23:852][629]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.26:036][747]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.26:036][747]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.26:036][747]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.26:050][748]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.28:046][853]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.28:046][853]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.28:046][853]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.28:065][854]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.29:252][914]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.29:252][914]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.29:252][914]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.29:272][915]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.32:163][940]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.32:163][940]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.32:163][940]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.32:183][941]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.33:470][993]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.33:470][993]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.33:470][993]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.33:490][994]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.34:006][ 25]LogSlate: Window 'MainLevel_KJ' being destroyed
+[2021.10.10-05.01.34:009][ 25]LogSlate: Window 'MainLevel_KJ' being destroyed
+[2021.10.10-05.01.34:013][ 25]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-05.01.34:013][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-05.01.35:680][113]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.35:680][113]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.35:680][113]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.35:703][115]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.37:889][234]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.37:889][234]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.37:890][234]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.37:910][235]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.39:289][317]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ:PersistentLevel.MainLevel_KJ
+[2021.10.10-05.01.40:099][339]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.40:099][339]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.40:099][339]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.40:119][340]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.42:308][458]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.42:308][458]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.42:308][458]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.42:328][459]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.43:515][519]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.43:515][519]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.43:515][519]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.43:534][520]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.45:725][633]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.45:725][633]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.45:725][633]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.45:751][635]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.47:935][754]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.47:935][754]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.47:935][754]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.47:971][755]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.49:946][862]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.49:946][862]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.49:946][862]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.49:965][863]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.52:154][983]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.52:154][983]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.52:154][983]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.52:176][983]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.54:162][ 92]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.54:162][ 92]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.54:162][ 92]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.54:189][ 94]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.56:372][213]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.56:372][213]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.56:372][213]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.56:399][215]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.01.58:583][332]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.01.58:583][332]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.01.58:583][332]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.01.58:613][334]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.00:793][453]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.00:793][453]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.00:793][453]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.00:824][454]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.02:803][554]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.02:803][554]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.02:803][554]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.02:823][555]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.05:011][675]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.05:012][675]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.05:012][675]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.05:036][676]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.07:019][784]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.07:019][784]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.07:019][784]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.07:047][786]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.09:230][903]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.09:230][903]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.09:230][903]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.09:257][905]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.11:438][ 24]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.11:438][ 24]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.11:438][ 24]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.11:466][ 26]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.12:424][ 83]BlueprintLog: New page: Compile MainLevel_KJ
+[2021.10.10-05.02.12:426][ 83]LogProperty: Warning: Serialized Class /Script/Engine.Blueprint for a property of BlueprintGeneratedClass /Game/Blueprints_KJ/SteamTrigger_KJ.SteamTrigger_KJ_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ_C:Steam
+    Item = Blueprint /Game/Blueprints_KJ/SteamTrigger_KJ.SteamTrigger_KJ
+[2021.10.10-05.02.12:457][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.10.10-05.02.12:645][ 85]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.12:645][ 85]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.12:645][ 85]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.12:658][ 86]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.12:951][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.10.10-05.02.13:017][ 99]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/MainLevel_KJ47FA1BF6451E2232B13CB496084D09CA.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ.umap'
+[2021.10.10-05.02.13:022][ 99]LogFileHelpers: Saving map 'MainLevel_KJ' took 0.085
+[2021.10.10-05.02.13:031][ 99]AssetCheck: New page: Asset Save: MainLevel_KJ
+[2021.10.10-05.02.13:031][ 99]LogContentValidation: Display: Validating World /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ
+[2021.10.10-05.02.14:655][188]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.14:655][188]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.14:655][188]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.14:672][188]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.16:665][300]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.16:665][300]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.16:665][300]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.16:684][301]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.18:874][421]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.18:874][421]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.18:874][421]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.18:894][422]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.20:882][527]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.20:882][527]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.20:882][527]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.20:908][529]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.23:092][647]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.23:092][647]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.23:092][647]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.23:118][649]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.26:402][681]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/alilb/Desktop/Fall 2021/Team Game/Sound Effects/Geyser Rise.wav)
+[2021.10.10-05.02.26:605][683]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.26:606][683]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.26:606][683]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.26:618][684]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.28:616][791]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.28:616][791]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.28:616][791]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.28:645][792]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.30:624][901]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.30:624][901]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.30:624][901]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.30:650][903]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.32:833][ 21]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.32:833][ 21]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.32:833][ 21]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.32:849][ 22]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.33:319][ 50]BlueprintLog: New page: Compile MainLevel_KJ
+[2021.10.10-05.02.33:350][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.10.10-05.02.33:827][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.10.10-05.02.33:894][ 74]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/MainLevel_KJ2B99A68F4C27C5785CE5BBBBA38E1C9D.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ.umap'
+[2021.10.10-05.02.33:898][ 74]LogFileHelpers: Saving map 'MainLevel_KJ' took 0.085
+[2021.10.10-05.02.33:908][ 74]AssetCheck: New page: Asset Save: MainLevel_KJ
+[2021.10.10-05.02.33:908][ 74]LogContentValidation: Display: Validating World /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ
+[2021.10.10-05.02.34:842][120]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.34:842][120]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.34:842][120]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.34:867][122]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.34:912][124]LogSlate: Window 'MainLevel_KJ' being destroyed
+[2021.10.10-05.02.34:915][124]LogSlate: Window 'MainLevel_KJ' being destroyed
+[2021.10.10-05.02.34:917][124]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-05.02.34:917][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-05.02.36:417][213]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-05.02.36:421][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-05.02.36:421][213]PIE: New page: PIE session: MainLevel_KJ (Oct 9, 2021, 7:02:36 PM)
+[2021.10.10-05.02.36:423][213]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.10-05.02.36:424][213]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.10-05.02.36:424][213]LogPlayLevel: Creating play world package: /Game/Levels_KJ/UEDPIE_0_MainLevel_KJ
+[2021.10.10-05.02.36:447][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023606s)
+[2021.10.10-05.02.36:448][213]LogAIModule: Creating AISystem for world MainLevel_KJ
+[2021.10.10-05.02.36:448][213]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2021.10.10-05.02.36:449][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ to /Game/Levels_KJ/UEDPIE_0_MainLevel_KJ.MainLevel_KJ (0.025093s)
+[2021.10.10-05.02.36:463][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.10.10-05.02.36:465][213]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-05.02.36:465][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-05.02.36:465][213]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-05.02.36:465][213]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-05.02.36:468][213]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-05.02.36:468][213]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-05.02.36:479][213]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Kitty Edition)
+[2021.10.10-05.02.36:480][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-05.02.36:480][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-05.02.36:480][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-05.02.36:480][213]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-05.02.36:480][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-05.02.36:480][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-05.02.36:496][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-05.02.36:496][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-05.02.36:496][213]LogInit: FAudioDevice initialized.
+[2021.10.10-05.02.36:496][213]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel_KJ'.
+[2021.10.10-05.02.36:504][213]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.10-05.02.36:510][213]LogWorld: Bringing World /Game/Levels_KJ/UEDPIE_0_MainLevel_KJ.MainLevel_KJ up for play (max tick rate 60) at 2021.10.10-00.02.36
+[2021.10.10-05.02.36:511][213]LogWorld: Bringing up level for play took: 0.006050
+[2021.10.10-05.02.36:511][213]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.10.10-05.02.36:517][213]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.10.10-05.02.36:517][213]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.10.10-05.02.36:517][213]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.10.10-05.02.36:517][213]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.10.10-05.02.36:518][213]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] 0
+[2021.10.10-05.02.36:519][213]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.10.10-05.02.36:519][213]PIE: Server logged in
+[2021.10.10-05.02.36:520][213]PIE: Play in editor total start time 0.1 seconds.
+[2021.10.10-05.02.37:051][222]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.37:051][222]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.37:051][222]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.37:071][223]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.37:854][270]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	ArkTutorial_KJ_C /Game/Levels_KJ/UEDPIE_0_MainLevel_KJ.MainLevel_KJ:PersistentLevel.ArkTutorial_KJ_2
+	Function /Game/Blueprints_KJ/ArkTutorial_KJ.ArkTutorial_KJ_C:ExecuteUbergraph_ArkTutorial_KJ:0360
+[2021.10.10-05.02.37:854][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  ArkTutorial_KJ Function:  Execute Ubergraph Ark Tutorial KJ Graph:  EventGraph Node:  Remove from Parent
+[2021.10.10-05.02.39:259][343]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.39:260][343]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.39:260][343]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.39:280][344]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.41:469][464]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.41:469][464]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.41:469][464]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.41:489][465]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.43:678][585]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.43:678][585]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.43:678][585]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.43:698][586]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.45:483][693]LogBlueprintUserMessages: [DoveCharacter_KJ_C_0] 110.0
+[2021.10.10-05.02.45:887][706]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.45:887][706]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.45:887][706]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.45:891][706]LogScript: Warning: Accessed None trying to read property Steam
+	MainLevel_KJ_C /Game/Levels_KJ/UEDPIE_0_MainLevel_KJ.MainLevel_KJ:PersistentLevel.MainLevel_KJ_C_1
+	Function /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ_C:ExecuteUbergraph_MainLevel_KJ:0026
+[2021.10.10-05.02.45:891][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Steam". Blueprint:  MainLevel_KJ Function:  Execute Ubergraph Main Level KJ Graph:  EventGraph Node:  Spawn Emitter at Location
+[2021.10.10-05.02.45:893][706]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Geyser_Rise...
+[2021.10.10-05.02.45:893][706]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio_DL/Sounds_DL/Geyser_Rise.Geyser_Rise will be modified from 40 to 40.
+[2021.10.10-05.02.45:993][706]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1551248 while cooking SoundWave /Game/Audio_DL/Sounds_DL/Geyser_Rise.Geyser_Rise.
+[2021.10.10-05.02.45:998][707]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.46:916][762]LogBlueprintUserMessages: [DoveCharacter_KJ_C_0] 85.0
+[2021.10.10-05.02.47:896][810]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.47:896][810]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.47:896][810]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.47:916][811]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.48:103][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-05.02.48:103][820]LogWorld: BeginTearingDown for /Game/Levels_KJ/UEDPIE_0_MainLevel_KJ
+[2021.10.10-05.02.48:103][820]LogWorld: UWorld::CleanupWorld for MainLevel_KJ, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-05.02.48:105][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-05.02.48:112][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-05.02.48:119][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-05.02.48:131][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-05.02.48:142][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-05.02.48:143][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-05.02.48:184][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.10-05.02.48:247][821]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.10-05.02.49:472][888]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-05.02.49:475][888]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-05.02.50:105][915]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.50:105][915]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.50:105][915]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.50:125][916]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.50:425][934]LogEditorViewport: Clicking on Actor (LMB): FloatingClouds_KJ_C (FloatingClouds_KJ2)
+[2021.10.10-05.02.51:468][996]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.10.10-05.02.52:315][ 36]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.52:315][ 36]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.52:315][ 36]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.52:318][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.10.10-05.02.52:332][ 37]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.52:618][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.10.10-05.02.53:105][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.10.10-05.02.54:322][146]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.54:323][146]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.54:323][146]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.54:345][147]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.55:229][200]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2021.10.10-05.02.56:331][256]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.56:331][256]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.56:331][256]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.56:351][257]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.02.58:539][377]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.02.58:540][377]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.02.58:540][377]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.02.58:559][378]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.03.00:410][489]LogEditorViewport: Clicking on Actor (LMB): FloatingClouds_KJ_C (FloatingClouds_KJ2)
+[2021.10.10-05.03.00:748][498]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.03.00:748][498]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.03.00:749][498]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.03.00:768][499]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.03.01:785][560]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.10.10-05.03.02:957][619]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.03.02:957][619]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.03.02:957][619]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.03.02:980][620]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.03.03:064][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.10.10-05.03.03:132][620]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/MainLevel_KJA2393B9C4B82BA42720D338BE11FE896.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ.umap'
+[2021.10.10-05.03.12:309][620]LogRHI: Error: Present Fail Count 1
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferDesc.Width 517
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferDesc.Height 63
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.OutputWindow 0000000006AA0BC2
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.12:309][620]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.12:858][620]LogRHI: Error: Present Fail Count 1
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.BufferDesc.Width 648
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.BufferDesc.Height 133
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.12:858][620]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.12:859][620]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.12:859][620]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.12:859][620]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.12:859][620]LogRHI: Error: SwapChainDesc.OutputWindow 0000000002650DAE
+[2021.10.10-05.03.12:859][620]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.12:859][620]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.12:859][620]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:013][620]LogSavePackage: Moving '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Saved/MainLevel_KJ_BuiltData149B625C4BB9DB3D87354A926F8E8BB2.tmp' to '../../../../../../Users/alilb/Documents/Unreal Projects/NAMainMenuTemp/Content/Levels_KJ/MainLevel_KJ_BuiltData.uasset'
+[2021.10.10-05.03.13:024][620]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.10-05.03.13:024][620]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels_KJ/MainLevel_KJ_BuiltData.MainLevel_KJ_BuiltData
+[2021.10.10-05.03.13:024][620]LogContentValidation: Display: Validating World /Game/Levels_KJ/MainLevel_KJ.MainLevel_KJ
+[2021.10.10-05.03.13:038][621]LogRHI: Error: Present Fail Count 1
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:038][621]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:190][622]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.10-05.03.13:190][622]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.10-05.03.13:190][622]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.10-05.03.13:209][623]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.10-05.03.13:232][624]LogRHI: Error: Present Fail Count 2
+[2021.10.10-05.03.13:232][624]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:232][624]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:232][624]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:233][624]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:282][627]LogRHI: Error: Present Fail Count 3
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:282][627]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:331][630]LogRHI: Error: Present Fail Count 4
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:331][630]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:381][633]LogRHI: Error: Present Fail Count 5
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:381][633]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:469][636]LogRHI: Error: Present Fail Count 6
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:469][636]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:526][639]LogRHI: Error: Present Fail Count 7
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:526][639]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:576][642]LogRHI: Error: Present Fail Count 8
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:576][642]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:624][645]LogRHI: Error: Present Fail Count 9
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:625][645]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:675][648]LogRHI: Error: Present Fail Count 10
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:675][648]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:715][651]LogRHI: Error: Present Fail Count 11
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SyncInterval 0
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1096
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.OutputWindow 00000000017B0C72
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.10.10-05.03.13:715][651]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.10.10-05.03.13:715][651]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:428 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2021.10.10-05.03.13:715][651]LogD3D11RHI: [Aftermath] GDynamicRHI=000001D71758BA40, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.10.10-05.03.13:715][651]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.10.10-05.03.14:936][652]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.10.10-05.03.14:936][652]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.10.10-05.03.14:936][652]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.10.10-05.03.14:936][652]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.10.10-05.03.14:946][652]Log file closed, 10/10/21 00:03:14
